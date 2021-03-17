@@ -1,0 +1,14 @@
+.root {
+    -fx-background-color: aqua;
+}
+
+.txt {
+    -fx-font-family: Arial;
+    -fx-font-style: italic;
+    -fx-font-weight: 800;
+    -fx-font-size: 32;
+}
+
+.new-background{
+    -fx-background-color: lightcoral;
+}
