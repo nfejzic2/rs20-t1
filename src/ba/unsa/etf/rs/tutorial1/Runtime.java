@@ -1,6 +1,6 @@
-package ba.unsa.etf.rpr.tutorial1;
+package ba.unsa.etf.rs.tutorial1;
 
-public class runtime {
+public class Runtime {
     public static void main(String[] args){
         Main.main(args);
     }
